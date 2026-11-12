@@ -213,7 +213,8 @@ describe('markdown', () => {
 // Si el proyecto Android está al lado (en el PC de César), comprueba que todas sus lecciones se leen bien.
 const CARPETA = '../FRAide/content/lecciones';
 describe.runIf(existsSync(CARPETA))('lecciones reales', () => {
-  for (const f of readdirSync(CARPETA)) {
+  // En GitHub la carpeta no existe: sin esto, readdirSync fallaba antes de saltarse el bloque
+  for (const f of existsSync(CARPETA) ? readdirSync(CARPETA) : []) {
     it(f, () => {
       const a = analizar(readFileSync(`${CARPETA}/${f}`, 'utf8'));
       expect(['leccion', 'retirada']).toContain(a.tipo);
