@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+# Las lecciones del curso NO se suben: se importan desde la app
+lecciones/
+*.leccion.json

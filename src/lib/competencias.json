@@ -1,0 +1,263 @@
+{
+  "nota": "Mapa de competencias A1–A2 (MCER) para seguir el progreso. 'nivel' indica dónde suele situarse. Las lecciones enlazan aquí con su campo 'competencias'. A1 ≈ Inspire 1 · A2 ≈ Mon Alter Ego 2.",
+  "competencias": [
+    {
+      "id": "presentarse",
+      "nivel": "A1",
+      "tipo": "comunicacion",
+      "titulo": "Presentarse y presentar a alguien"
+    },
+    {
+      "id": "articulos",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Artículos definidos, indefinidos, contractos y partitivos"
+    },
+    {
+      "id": "genero-numero",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Femenino y plural de los sustantivos"
+    },
+    {
+      "id": "adjetivos",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Adjetivos: concordancia y posición"
+    },
+    {
+      "id": "posesivos",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Adjetivos posesivos"
+    },
+    {
+      "id": "demostrativos",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Adjetivos demostrativos (ce, cet, cette, ces)"
+    },
+    {
+      "id": "etre-avoir",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "être, avoir, c'est / ce sont, il y a"
+    },
+    {
+      "id": "presente-regulares",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Presente de los verbos en -er"
+    },
+    {
+      "id": "presente-irregulares",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Presente de verbos en -ir, -re, -oir e irregulares"
+    },
+    {
+      "id": "pronominales",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Verbos pronominales"
+    },
+    {
+      "id": "imperativo",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Imperativo afirmativo y negativo"
+    },
+    {
+      "id": "futuro-proximo",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Futur proche (aller + infinitivo)"
+    },
+    {
+      "id": "passe-recent",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Passé récent (venir de + infinitivo)"
+    },
+    {
+      "id": "negacion",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Negación: ne... pas / rien / jamais / plus / que"
+    },
+    {
+      "id": "preguntas",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Hacer preguntas e interrogativos (quel, où, comment...)"
+    },
+    {
+      "id": "pronombres-tonicos",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Pronombres sujeto y tónicos (moi, toi...)"
+    },
+    {
+      "id": "comparativo",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Comparación (plus / aussi / moins... que)"
+    },
+    {
+      "id": "causa-finalidad",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Causa y finalidad (parce que, pour)"
+    },
+    {
+      "id": "preposiciones-lugar",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Lugar: países, à / de / chez, preposiciones"
+    },
+    {
+      "id": "pronombre-y",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Pronombre y (lugar)"
+    },
+    {
+      "id": "indicaciones-tiempo",
+      "nivel": "A1",
+      "tipo": "gramatica",
+      "titulo": "Indicaciones de tiempo y frecuencia"
+    },
+    {
+      "id": "cantidades",
+      "nivel": "A1",
+      "tipo": "lexico",
+      "titulo": "Cantidades y medidas (beaucoup de, un kilo de...)"
+    },
+    {
+      "id": "alimentos",
+      "nivel": "A1",
+      "tipo": "lexico",
+      "titulo": "Alimentos y comercios"
+    },
+    {
+      "id": "compras",
+      "nivel": "A2",
+      "tipo": "comunicacion",
+      "titulo": "Hacer una compra (pedir, precio, pagar)"
+    },
+    {
+      "id": "describir-personas",
+      "nivel": "A2",
+      "tipo": "comunicacion",
+      "titulo": "Describir a una persona y sus cualidades"
+    },
+    {
+      "id": "relaciones-sociales",
+      "nivel": "A2",
+      "tipo": "lexico",
+      "titulo": "Relaciones e interacciones sociales"
+    },
+    {
+      "id": "pronombres-cod-coi",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Pronombres COD (le, la, les) y COI (lui, leur)"
+    },
+    {
+      "id": "pronombre-en",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Pronombre en (cantidad)"
+    },
+    {
+      "id": "imperfecto",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Imparfait: formación y uso"
+    },
+    {
+      "id": "passe-compose",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Passé composé con avoir y être, participios"
+    },
+    {
+      "id": "imperfecto-vs-pc",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Imparfait vs passé composé en un relato"
+    },
+    {
+      "id": "comparar-pasado-presente",
+      "nivel": "A2",
+      "tipo": "comunicacion",
+      "titulo": "Comparar el pasado con el presente"
+    },
+    {
+      "id": "contar-historia",
+      "nivel": "A2",
+      "tipo": "comunicacion",
+      "titulo": "Contar una historia o una experiencia pasada"
+    },
+    {
+      "id": "sentimientos",
+      "nivel": "A2",
+      "tipo": "lexico",
+      "titulo": "Expresar sentimientos"
+    },
+    {
+      "id": "nuevas-tecnologias",
+      "nivel": "A2",
+      "tipo": "lexico",
+      "titulo": "Comunicación y mundo digital"
+    },
+    {
+      "id": "describir-objetos",
+      "nivel": "A2",
+      "tipo": "comunicacion",
+      "titulo": "Describir un objeto (material, forma, estado, función)"
+    },
+    {
+      "id": "interrogativos-lequel",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Interrogativos lequel, laquelle, lesquel(le)s"
+    },
+    {
+      "id": "ropa-accesorios",
+      "nivel": "A2",
+      "tipo": "lexico",
+      "titulo": "Ropa, calzado y accesorios"
+    },
+    {
+      "id": "relativos-qui-que",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Pronombres relativos qui y que"
+    },
+    {
+      "id": "futuro-simple",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Futur simple"
+    },
+    {
+      "id": "condicional-cortesia",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Condicional de cortesía (je voudrais, pourriez-vous...)"
+    },
+    {
+      "id": "vivienda",
+      "nivel": "A2",
+      "tipo": "lexico",
+      "titulo": "La vivienda: describir un piso y leer anuncios"
+    },
+    {
+      "id": "condicion-si",
+      "nivel": "A2",
+      "tipo": "gramatica",
+      "titulo": "Expresar una condición (si + presente)"
+    }
+  ]
+}

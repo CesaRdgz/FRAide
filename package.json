@@ -1,0 +1,28 @@
+{
+  "name": "fraide-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "FRAide en el navegador: lecciones, vocabulario, verbos y exámenes de francés (A1–A2).",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "check": "svelte-check --tsconfig ./tsconfig.json",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "7.3.1",
+    "@tsconfig/svelte": "5.0.8",
+    "@types/node": "^22.19.1",
+    "svelte": "5.57.3",
+    "svelte-check": "4.7.8",
+    "typescript": "5.9.3",
+    "vite": "8.3.7",
+    "vitest": "5.1.0"
+  },
+  "dependencies": {
+    "idb-keyval": "6.3.0"
+  }
+}
